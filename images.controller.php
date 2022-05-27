@@ -6,6 +6,6 @@ if(!class_exists("Images")){
 	include("./images.class.php");
 }
 $image = new Images();
-echo json_encode($image -> GetAllImages());
+echo json_encode($image -> GetStory());
 $image -> close();
 ?>

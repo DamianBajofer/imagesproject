@@ -3,7 +3,7 @@ html, body{
 	height: 100%;
 }
 
-#gp_1, #gp_2, #gp_3{
+#group{
 	background-color:rgba(0,0,0,0.6);
 	border:1px solid rgba(0,0,0,0.5);
 	border-radius:2px;
@@ -11,7 +11,7 @@ html, body{
 	height:30%;
 	margin:10px auto;
 }
-.image1, .image2, .image3{
+.inicio, .mitad, .final{
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
